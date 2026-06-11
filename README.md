@@ -21,14 +21,23 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Física (UERJ)** — Tenho estatística sólida e pensamento analítico para resolver problemas reais com dados. Meu foco é transformar dados em soluções, sempre pensando em como gerar valor com meu conhecimento.
+Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Física (UERJ)** — Tenho estatística sólida e pensamento analítico para resolver problemas reais com dados. Meu foco é transformar dados em soluções, sempre pensando em como gerar valor com meu conhecimento. Atuo transformando dados em insights acionáveis e produtos de dados, com foco em:
 
-Por isso cada projeto que construo começa com um problema real e termina com um insight acionável.
+* Comportamento do usuário
+* Tomada de decisão
+* Otimização e automação de tarefas
 
+---
 
-- 🌱 Estudando **SQL avançado**, **Machine Learning** e **Engenharia de Dados**
-- 💡 Projetos desenolvidos nas areas: **Análise, Engenharia e Ciência de dados**, **Produtos de dados** e **IA aplicada**
-- 🌐 Inglês avançado — certificado EF SET
+## 🧠 Diferenciais
+
+📊 Projetos end-to-end: ETL → modelagem → análise → insight
+
+🧮 Base sólida em estatística e modelagem (Física - UERJ)
+
+🧠 Experiência com Machine Learning e NLP aplicados
+
+🚀 Construção de produtos de dados (dashboards e automações)
 
 ---
 
@@ -51,6 +60,7 @@ Por isso cada projeto que construo começa com um problema real e termina com um
 
 ### 🔬 [FísicaLab — Biblioteca Python para Física Experimental](https://github.com/hugodevelopment/fisica_lab)
 > Biblioteca Python que automatiza cálculos de laboratório — derivadas parciais, propagação de incertezas e geração de relatório Word em uma única chamada.
+> Impacto: Redução de esforço manual e padronização de análises experimentais.
 
 `Python` `SymPy` `Pandas` `python-docx` `Arquitetura modular`
 
@@ -58,6 +68,7 @@ Por isso cada projeto que construo começa com um problema real e termina com um
 
 ### 🛍️ [Enjoei Market Intelligence — SQL + Web Scraping](https://github.com/hugodevelopment/Analise_Dados_Enjoei)
 > Coleta de dados reais via API GraphQL interna do Enjoei + análise SQL avançada com Window Functions, CTEs e score de atratividade de produtos.
+> Impacto: Identificação de padrões de preço e oportunidades de mercado.
 
 `Python` `SQL` `SQLite` `Web Scraping` `Chart.js` `Data Visualization`
 
@@ -65,6 +76,7 @@ Por isso cada projeto que construo começa com um problema real e termina com um
 
 ### 📊 [Dashboard Financeiro Nubank — Power BI + DAX](https://github.com/hugodevelopment/Analise-Financeira-Nubank)
 > Análise comportamental de gastos com Power BI — MoM, média móvel, classificação de recorrência e alertas automáticos de anomalia com DAX avançado.
+> Identificação de padrões de consumo e geração de alertas inteligentes (ex: aumento de gastos por categoria).
 
 `Power BI` `DAX` `Power Query` `Linguagem M` `Arquitetura Medallion`
 
@@ -72,6 +84,7 @@ Por isso cada projeto que construo começa com um problema real e termina com um
 
 ### 🎓 [Previsão de Desempenho Escolar — Machine Learning](https://github.com/hugodevelopment/Previsao-de-Desempenho-em-Matematica-com-Machine-Learning)
 > Modelo preditivo com 87% de precisão (R²) para antecipar o desempenho de alunos em matemática com base em fatores socioeducacionais.
+> Possibilita intervenção antecipada em alunos com risco de baixo desempenho.
 
 `Python` `Scikit-learn` `Random Forest` `Regressão Linear` `EDA`
 
@@ -79,6 +92,7 @@ Por isso cada projeto que construo começa com um problema real e termina com um
 
 ### 📞 [ETL de Tratamento de Dados — Telefones](https://github.com/hugodevelopment/Etl-Tratamento-Telefone)
 > Pipeline ETL que processou 44.000 registros de telefone com inconsistências, classificando automaticamente em CELULAR, FIXO e INVÁLIDO.
+> Redução de inconsistências e melhoria da qualidade dos dados.
 
 `Python` `ETL` `Regex` `OOP` `Logging`
 
@@ -86,6 +100,7 @@ Por isso cada projeto que construo começa com um problema real e termina com um
 
 ### 🏛️ [Monitor Inteligente de Patentes — INPI](https://github.com/hugodevelopment/Monitor-Inteligente-de-Patentes-INPI)
 > Pipeline de NLP para triagem automática de registros de patentes do INPI, classificando ativos jurídicos com Machine Learning e alertas via Power BI.
+> Automatização da triagem de documentos jurídicos e ganho de eficiência analítica.
 
 `Python` `NLP` `TF-IDF` `Scikit-learn` `Power BI`
 
