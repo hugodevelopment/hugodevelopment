@@ -21,13 +21,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou analista de dados com formação em **Física (UERJ)** — uma combinação que me dá base estatística sólida e pensamento analítico para resolver problemas reais com dados.
+Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Física (UERJ)** — uma combinação que me dá base estatística sólida e pensamento analítico para resolver problemas reais com dados. Meu foco é transformar dados em soluções, sempre pensando em como gerar valor com meu conhecimento.
 
-Acredito que dado bom é dado que gera decisão. Por isso cada projeto que construo começa com um problema real e termina com um insight acionável.
+Por isso cada projeto que construo começa com um problema real e termina com um insight acionável.
 
-- 🔭 Atualmente trabalhando como Estagiário em Dados na **Dover Fueling Solutions**
+
 - 🌱 Estudando **SQL avançado**, **Machine Learning** e **Engenharia de Dados**
-- 💡 Interesse em: Análise de dados, Produtos de dados, LegalTech e IA aplicada
+- 💡 Projetos desenolvidos nas areas: **Análise, Engenharia e Ciência de dados**, **Produtos de dados** e **IA aplicada**
 - 🌐 Inglês avançado — certificado EF SET
 
 ---
@@ -101,5 +101,5 @@ Acredito que dado bom é dado que gera decisão. Por isso cada projeto que const
 ---
 
 <p align="center">
-  <i>"Dado bom é dado que gera decisão."</i>
+  <i>"Transformar dados em decisões inteligentes."</i>
 </p>
