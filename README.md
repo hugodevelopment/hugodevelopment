@@ -77,6 +77,7 @@ Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Físic
 ### 📊 [Dashboard Financeiro Nubank — Power BI + DAX](https://github.com/hugodevelopment/Analise-Financeira-Nubank)
 > Análise comportamental de gastos com Power BI — MoM, média móvel, classificação de recorrência e alertas automáticos de anomalia com DAX avançado.
 > Identificação de padrões de consumo e geração de alertas inteligentes (ex: aumento de gastos por categoria).
+> Impacto: Identificação de padrões de consumo e geração de alertas inteligentes (ex: aumento de gastos por categoria).
 
 `Power BI` `DAX` `Power Query` `Linguagem M` `Arquitetura Medallion`
 
@@ -85,6 +86,7 @@ Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Físic
 ### 🎓 [Previsão de Desempenho Escolar — Machine Learning](https://github.com/hugodevelopment/Previsao-de-Desempenho-em-Matematica-com-Machine-Learning)
 > Modelo preditivo com 87% de precisão (R²) para antecipar o desempenho de alunos em matemática com base em fatores socioeducacionais.
 > Possibilita intervenção antecipada em alunos com risco de baixo desempenho.
+> Impacto: Possibilita intervenção antecipada em alunos com risco de baixo desempenho.
 
 `Python` `Scikit-learn` `Random Forest` `Regressão Linear` `EDA`
 
@@ -93,6 +95,7 @@ Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Físic
 ### 📞 [ETL de Tratamento de Dados — Telefones](https://github.com/hugodevelopment/Etl-Tratamento-Telefone)
 > Pipeline ETL que processou 44.000 registros de telefone com inconsistências, classificando automaticamente em CELULAR, FIXO e INVÁLIDO.
 > Redução de inconsistências e melhoria da qualidade dos dados.
+> Impacto: Redução de inconsistências e melhoria da qualidade dos dados.
 
 `Python` `ETL` `Regex` `OOP` `Logging`
 
@@ -100,6 +103,7 @@ Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Físic
 
 ### 🏛️ [Monitor Inteligente de Patentes — INPI](https://github.com/hugodevelopment/Monitor-Inteligente-de-Patentes-INPI)
 > Pipeline de NLP para triagem automática de registros de patentes do INPI, classificando ativos jurídicos com Machine Learning e alertas via Power BI.
+> Automatização da triagem de documentos jurídicos e ganho de eficiência analítica.
 > Automatização da triagem de documentos jurídicos e ganho de eficiência analítica.
 
 `Python` `NLP` `TF-IDF` `Scikit-learn` `Power BI`
