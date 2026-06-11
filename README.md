@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Física (UERJ)** — uma combinação que me dá base estatística sólida e pensamento analítico para resolver problemas reais com dados. Meu foco é transformar dados em soluções, sempre pensando em como gerar valor com meu conhecimento.
+Olá, bem vindo ao meu perfil! Sou analista de dados  com formação em **Física (UERJ)** — Tenho estatística sólida e pensamento analítico para resolver problemas reais com dados. Meu foco é transformar dados em soluções, sempre pensando em como gerar valor com meu conhecimento.
 
 Por isso cada projeto que construo começa com um problema real e termina com um insight acionável.
 
